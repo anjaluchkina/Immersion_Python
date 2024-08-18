@@ -45,5 +45,5 @@ for things in unique_things.values():
 print(f'Список дублирующихся вещей: {double_things}')
 
 for friend, things in hike.items():
-    print(f'{friend} отсутсвуют {double_things - set(things)}')
-   # print(f' Второй вариант : {friend} отсутсвуют {(set(things) ^ double_things) - set(unique_things[friend])}')
+    print(f'{friend} отсутсвует {double_things - set(things)}')
+   # print(f' Второй вариант : {friend} отсутсвует {(set(things) ^ double_things) - set(unique_things[friend])}')
