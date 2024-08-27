@@ -1,0 +1,50 @@
+[
+    {
+        "name": "new_users.csv",
+        "type": "file",
+        "parent": "Result",
+        "size": 524
+    },
+    {
+        "name": "new_users.json",
+        "type": "file",
+        "parent": "Result",
+        "size": 819
+    },
+    {
+        "name": "new_users.pickle",
+        "type": "file",
+        "parent": "Result",
+        "size": 582
+    },
+    {
+        "name": "results.json",
+        "type": "file",
+        "parent": "Result",
+        "size": 3141
+    },
+    {
+        "name": "results.pickle",
+        "type": "file",
+        "parent": "Result",
+        "size": 2112
+    },
+    {
+        "name": "users.csv",
+        "type": "file",
+        "parent": "Result",
+        "size": 112
+    },
+    {
+        "name": "users.json",
+        "type": "file",
+        "parent": "Result",
+        "size": 222
+    },
+    {
+        "name": "users.pickle",
+        "type": "file",
+        "parent": "Result",
+        "size": 144
+    }
+]
